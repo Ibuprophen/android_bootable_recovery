@@ -1,8 +1,10 @@
 **Team Win Recovery Project (TWRP)**
 
+Guide to Compile TWRP on XDA:
+https://forum.xda-developers.com/showthread.php?t=1943625
 
-XDA Guide for Compiling TWRP: https://forum.xda-developers.com/showthread.php?t=1943625
+Official TWRP on Github:
+https://github.com/omnirom/android_bootable_recovery/
 
-TWRP on Github: https://github.com/omnirom/android_bootable_recovery/
-
-TWRP on Gerrit: https://gerrit.twrp.me/
+Official TWRP on Gerrit: 
+https://gerrit.twrp.me/
