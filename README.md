@@ -1,6 +1,6 @@
-**Team Win Recovery Project (TWRP)**
-
-**---------------------------------------------------------**
+**TEAM WIN RECOVERY PROJECT (TWRP)**
+ 
+**--------------------------------**
 
 Guide to Compile TWRP on XDA:
 https://forum.xda-developers.com/showthread.php?t=1943625
